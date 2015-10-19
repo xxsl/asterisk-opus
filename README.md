@@ -1,5 +1,5 @@
-#Forked form meetecho, Thanks to meetecho.
-#I modified the patch file to support for 11.20.0
+Forked form meetecho, Thanks to meetecho.
+I modified the patch file to support for 11.20.0
 
 
 #Asterisk Opus/VP8 patch
